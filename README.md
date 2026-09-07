@@ -1,37 +1,15 @@
-# coding-using-c
+# Simple Line Editor in C
 
-# Hello World in C
+**Author:** Pratham V. G. Gowda  
+**Course:** Portfolio Building Studio  
 
-My first C program that prints **"Hello, World!"** to the screen.
+## Features
+- Dynamic array implementation for text manipulation
+- Command-line interface with standard line editing capabilities
+- File persistence (save and load text files)
+- Word and line statistics display
 
-## Code
-
-```c
-#include <stdio.h>
-
-int main()
-{
-    printf("Hello, World!");
-    return 0;
-}
-```
-
-## Output
-
-```text
-Hello, World!
-```
-
-## What I Learned
-
-* Basic structure of a C program
-* Using `#include <stdio.h>`
-* Using the `main()` function
-* Printing text using `printf()`
-* Using `return 0;`
-
-## Language
-
-**C**
-
-This is my first step in learning C programming.
+## Build & Run Instructions
+```bash
+gcc -Wall -Wextra editor.c -o editor
+.\editor.exe
