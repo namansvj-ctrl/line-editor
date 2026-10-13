@@ -1,6 +1,6 @@
 # Simple Line Editor in C
 
-**Author:** Pratham V. G. Gowda  
+**Team Members:** Naman V, Nandeesh S Moolya, Pratham V  
 **Course:** Portfolio Building Studio  
 
 ## Features
